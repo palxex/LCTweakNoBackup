@@ -1,0 +1,9 @@
+Package: com.kdt.livecontainer.tweaknobackup
+Name: LCTweakNoBackup
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Exclude LiveContainer's Documents from iCloud backup when loaded into LiveContainer itself.
+Maintainer: palxex
+Author: palxex
+Section: System
+Tag: role::developer
